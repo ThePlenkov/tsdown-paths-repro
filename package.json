@@ -10,7 +10,7 @@
     "build": "tsdown"
   },
   "devDependencies": {
-    "tsdown": "^0.16.7",
-    "typescript": "^5.7.2"
+    "tsdown": "^0.18.1",
+    "typescript": "^5.9.3"
   }
 }
